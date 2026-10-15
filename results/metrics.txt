@@ -1,0 +1,3 @@
+Compression Ratio: 5.35
+PSNR: 20.27 dB
+SSIM: 0.9282
